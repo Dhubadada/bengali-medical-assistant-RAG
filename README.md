@@ -14,3 +14,4 @@ It is a **Bengali speech-driven medical assistant** that uses **Retrieval Augmen
 - 📚 RAG-based retrieval for accurate responses
 - 🌐 Bengali language output for accessibility
 
+> **Note:** A valid **Gemini API key** is required and must be stored securely as a secret (`.env` or Colab environment variables).
