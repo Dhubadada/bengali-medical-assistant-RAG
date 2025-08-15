@@ -14,6 +14,3 @@ It is a **Bengali speech-driven medical assistant** that uses **Retrieval Augmen
 - 📚 RAG-based retrieval for accurate responses
 - 🌐 Bengali language output for accessibility
 
-## 📦 Requirements
-```bash
-pip install pandas openai whisper
